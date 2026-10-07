@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Swat.Game.BehaviourTree;
+
+[System.Serializable]
+public class #SCRIPTNAME# : ConditionNode
+{
+    public override bool IsTrue() {
+        return false;
+    }
+}

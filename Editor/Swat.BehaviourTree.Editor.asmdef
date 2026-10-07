@@ -1,0 +1,11 @@
+{
+  "name": "Swat.BehaviourTree.Editor",
+  "references": [
+    "Swat.BehaviourTree",
+    "Unity.Newtonsoft.Json"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

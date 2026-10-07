@@ -1,0 +1,12 @@
+{
+  "name": "com.swat.behaviour-tree",
+  "version": "1.0.0",
+  "displayName": "Behaviour Tree",
+  "description": "Behaviour tree runtime, blackboard and visual graph editor. Game-independent core extracted from Swat.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}
